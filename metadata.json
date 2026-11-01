@@ -1,0 +1,6 @@
+{
+  "name": "Rayshine Autodetailing",
+  "description": "Professional car detailing service in Dunedin, New Zealand. Where every car gets a brilliant shine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
